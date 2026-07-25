@@ -1,4 +1,4 @@
-# Truco - Simulador de Torneio
+# Versão inicial de - Achou que eu tava brincando?
 
 **Quando você estiver no github, eu vou estar lá**
 
